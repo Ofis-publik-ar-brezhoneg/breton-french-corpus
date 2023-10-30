@@ -1,3 +1,5 @@
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
 # Korpus divyezhek brezhoneg - galleg
 
 Korpus divyezhek brezhoneg-galleg Ofis publik ar brezhoneg zo ur c'horpus testennoù troet gant troerien-den.
@@ -14,8 +16,9 @@ Ce corpus est sous licence ouverte [CC BY 4.0](http://creativecommons.org/licens
 
 Il est composé de 62 861 phrases alignées en breton et en français. Il s'agit principalement de documents administratifs, d'articles ou d'expositions.
 
-[![CC BY 4.0][cc-by-shield]][cc-by]
 
 
 
-[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
