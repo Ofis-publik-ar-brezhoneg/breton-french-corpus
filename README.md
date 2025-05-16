@@ -1,5 +1,3 @@
-[![CC BY 4.0][cc-by-shield]][cc-by]
-
 # Korpus divyezhek brezhoneg - galleg
 
 Korpus divyezhek brezhoneg-galleg Ofis publik ar brezhoneg zo ur c'horpus testennoù troet gant troerien-den.
@@ -8,17 +6,10 @@ Dindan an aotreegezh digor [CC BY 4.0](http://creativecommons.org/licenses/by/4.
 
 Ennañ ez eus 62 861 frazenn steudet e brezhoneg hag e galleg. Teulioù melestradurel, pennadoù pe diskouezadegoù int dreist-holl.
 
-# Corpus bilingue breton - français
+# Breton-French Bilingual Corpus
 
-Le corpus bilingue breton- français de l'Office public de la langue bretonne est un corpus de textes traduits par des traducteurs humains.
+The Breton-French bilingual corpus of the Public Office of the Breton Language is a corpus of texts translated by human translators.
 
-Ce corpus est sous licence ouverte [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
+This corpus is licensed under the open [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) license.
 
-Il est composé de 62 861 phrases alignées en breton et en français. Il s'agit principalement de documents administratifs, d'articles ou d'expositions.
-
-
-
-
-
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+It consists of 62,861 sentences aligned in Breton and French. These are mainly administrative documents, articles, and exhibitions.
